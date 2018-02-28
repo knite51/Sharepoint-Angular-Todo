@@ -1,0 +1,3 @@
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Pioneer-Angular\Pioneer-Angular\bin\Debug\Pioneer-Angular.pdb
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Pioneer-Angular\Pioneer-Angular\obj\Debug\Pioneer-Angular.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Pioneer-Angular\Pioneer-Angular\obj\Debug\Pioneer-Angular.pdb

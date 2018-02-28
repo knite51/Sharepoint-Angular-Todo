@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Module Name="RootModule">
+    <File Path="package.json" Url="package.json" ReplaceContent="TRUE" />
+    <File Path="tsconfig.json" Url="tsconfig.json" ReplaceContent="TRUE" />
+    <File Path="tslint.json" Url="tslint.json" ReplaceContent="TRUE" />
+    <File Path="dist\3rdpartylicenses.txt" Url="dist/3rdpartylicenses.txt" ReplaceContent="TRUE" />
+    <File Path="dist\favicon.ico" Url="dist/favicon.ico" ReplaceContent="TRUE" />
+    <File Path="dist\glyphicons-halflings-regular.448c34a56d699c29117a.woff2" Url="dist/glyphicons-halflings-regular.448c34a56d699c29117a.woff2" ReplaceContent="TRUE" />
+    <File Path="dist\glyphicons-halflings-regular.89889688147bd7575d63.svg" Url="dist/glyphicons-halflings-regular.89889688147bd7575d63.svg" ReplaceContent="TRUE" />
+    <File Path="dist\glyphicons-halflings-regular.e18bbf611f2a2e43afc0.ttf" Url="dist/glyphicons-halflings-regular.e18bbf611f2a2e43afc0.ttf" ReplaceContent="TRUE" />
+    <File Path="dist\glyphicons-halflings-regular.f4769f9bdb7466be6508.eot" Url="dist/glyphicons-halflings-regular.f4769f9bdb7466be6508.eot" ReplaceContent="TRUE" />
+    <File Path="dist\glyphicons-halflings-regular.fa2772327f55d8198301.woff" Url="dist/glyphicons-halflings-regular.fa2772327f55d8198301.woff" ReplaceContent="TRUE" />
+    <File Path="dist\styles.05b0917748c430b08b18.bundle.css" Url="dist/styles.05b0917748c430b08b18.bundle.css" ReplaceContent="TRUE" />
+    <File Path="dist\polyfills.abdf53ca655716e505e0.bundle.js" Url="dist/polyfills.abdf53ca655716e505e0.bundle.js" ReplaceContent="TRUE" />
+    <File Path="dist\index.html" Url="dist/index.html" ReplaceContent="TRUE" />
+    <File Path="dist\main.71f75552bc1d02b079f4.bundle.js" Url="dist/main.71f75552bc1d02b079f4.bundle.js" ReplaceContent="TRUE" />
+    <File Path="dist\inline.352724f167f7ced9d626.bundle.js" Url="dist/inline.352724f167f7ced9d626.bundle.js" ReplaceContent="TRUE" />
+  </Module>
+</Elements>

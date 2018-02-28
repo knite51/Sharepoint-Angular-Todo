@@ -1,0 +1,19 @@
+<div class="container">
+  <div class="row">
+    <div class="col-xs-12">
+      <button class="btn btn-success" routerLink="new">New Todo</button>
+      <hr>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-xs-6">
+      <app-todo-items
+      *ngFor="let todoInfo of todoInfos; let i = index"
+      [todo]="todoInfo"
+      [id]="i"
+      ></app-todo-items>
+    </div>
+    <div class="col-xs-6">
+    </div>
+  </div>
+</div>

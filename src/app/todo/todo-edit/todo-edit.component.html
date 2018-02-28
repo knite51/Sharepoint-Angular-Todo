@@ -1,0 +1,16 @@
+<div class="row">
+  <div class="col-xs-12">
+    <form  [formGroup]="addTodoGroup"class="form-inline" (ngSubmit)="onaddNewTodo()">
+      <div>
+          <label for="todo-info"></label>
+          <input type="text" class="form-control" formControlName="todoInfo">
+          <button class="btn btn-primary">Add New Todo</button>
+          <button class="btn btn-danger" (click)="onCancelTodo()">Cancel Todo</button>
+          <hr>
+       </div>
+        <hr>
+    </form>
+    <br>
+
+  </div>
+</div>

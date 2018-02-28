@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ProjectItem Type="Microsoft.VisualStudio.SharePoint.Module" DefaultFile="Elements.xml" SupportedTrustLevels="All" SupportedDeploymentScopes="Web, Site" xmlns="http://schemas.microsoft.com/VisualStudio/2010/SharePointTools/SharePointProjectItemModel">
+  <Files>
+    <ProjectItemFile Source="Elements.xml" Type="ElementManifest" />
+    <ProjectItemFile Source="package.json" Type="ElementFile" />
+    <ProjectItemFile Source="tsconfig.json" Type="ElementFile" />
+    <ProjectItemFile Source="tslint.json" Type="ElementFile" />
+    <ProjectItemFile Source="dist\3rdpartylicenses.txt" Target="dist\" Type="ElementFile" />
+    <ProjectItemFile Source="dist\favicon.ico" Target="dist\" Type="ElementFile" />
+    <ProjectItemFile Source="dist\glyphicons-halflings-regular.448c34a56d699c29117a.woff2" Target="dist\" Type="ElementFile" />
+    <ProjectItemFile Source="dist\glyphicons-halflings-regular.89889688147bd7575d63.svg" Target="dist\" Type="ElementFile" />
+    <ProjectItemFile Source="dist\glyphicons-halflings-regular.e18bbf611f2a2e43afc0.ttf" Target="dist\" Type="ElementFile" />
+    <ProjectItemFile Source="dist\glyphicons-halflings-regular.f4769f9bdb7466be6508.eot" Target="dist\" Type="ElementFile" />
+    <ProjectItemFile Source="dist\glyphicons-halflings-regular.fa2772327f55d8198301.woff" Target="dist\" Type="ElementFile" />
+    <ProjectItemFile Source="dist\styles.05b0917748c430b08b18.bundle.css" Target="dist\" Type="ElementFile" />
+    <ProjectItemFile Source="dist\polyfills.abdf53ca655716e505e0.bundle.js" Target="dist\" Type="ElementFile" />
+    <ProjectItemFile Source="dist\index.html" Target="dist\" Type="ElementFile" />
+    <ProjectItemFile Source="dist\main.71f75552bc1d02b079f4.bundle.js" Target="dist\" Type="ElementFile" />
+    <ProjectItemFile Source="dist\inline.352724f167f7ced9d626.bundle.js" Target="dist\" Type="ElementFile" />
+  </Files>
+</ProjectItem>
